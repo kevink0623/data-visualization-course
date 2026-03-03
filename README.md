@@ -2,9 +2,9 @@
 
 ## 📌 Course Information
 - Course Name: Data Visualization
-- Semester: (e.g., Fall 2025)
+- Semester: Spring 2026
 - Tools: R, Python
-- Author: (Your Name)
+- Author: Kevin Chang
 
 ---
 
